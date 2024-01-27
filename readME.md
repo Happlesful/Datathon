@@ -1,1 +1,1 @@
-# Datathon (SingLife)
+# NUS-SDS-Datathon-Singlife
